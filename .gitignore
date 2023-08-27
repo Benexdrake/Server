@@ -363,3 +363,5 @@ MigrationBackup/
 FodyWeavers.xsd
 
 EC03EE70-CBA9-4CC7-9BD9-03087C6CBED6.json
+appsettings.json
+/Server/appsettings.json
