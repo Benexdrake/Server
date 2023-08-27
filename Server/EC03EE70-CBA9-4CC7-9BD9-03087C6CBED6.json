@@ -1,0 +1,93 @@
+{
+    "title": "Fullstack Software Developer",
+    "profileText": [
+        "Am 16.06.2023 habe ich meinen Abschluss als Fachinformatiker in der Anwendungsentwicklung erfolgreich abgeschlossen und in den letzten 4 Jahren umfassende Erfahrungen mit der Programmiersprache C# und dem Framework .NET gesammelt. Mein Praktikum während der Ausbildung fand bei der Kassenärztlichen Vereinigung Nordrhein statt, wo ich mich intensiv mit Typescript, Angular und Blazor auseinandersetzte und meine Kenntnisse in C# und .NET weiterentwickelte.",
+        "In meiner Rolle als Backend-Entwickler habe ich an einer .NET Blazor WASM-App und einem ASP.NET Core-Backend in Visual Studio 22 gearbeitet, wobei ich vertiefte Kenntnisse in der Erstellung und Anpassung von Microsoft Reports mit dem Microsoft Report Designer erwarb.",
+        "Als Mitglied eines agilen Entwicklungsteams habe ich aktiv an mehreren Iterationen und den täglichen Standup-Meetings teilgenommen. Dabei habe ich Workitems und Tasks gemäß dem Scrum-Framework bearbeitet.",
+        "Während meiner Tätigkeit konnte ich meine Programmierfähigkeiten in C# erweitern und vertiefen. Besonders habe ich mich mit Themen wie asynchroner Programmierung mit async/await, der Erstellung von WebAPIs mit ASP.NET Core, Lambda/Linq und Dependency Injection auseinandergesetzt.",
+        "Darüber hinaus habe ich mein Grundlagenwissen in verschiedenen IT-Themen erweitert, darunter Git, Unit-Testing mit xUnit, Frontend-Entwicklung mit Angular/Typescript und Authentifizierung/Autorisierung mit OAuth2. Diese Erfahrungen haben mich zu einem vielseitigen und gut gerüsteten Fachinformatiker gemacht."
+    ] ,
+    "motivationText":"I am a motivated and versatile individual, always eager to take a new challenges. With a passion for learning, i am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, i am ready to make a meaningful contribution and achieve great things.",
+    "name": "Benjamin Richter",
+    "tel": "+49176 / 42417453",
+    "email": "benrichter@live.de",
+    "github": "https://github.com/Benexdrake",
+    "linkedin": "https://www.linkedin.com/in/benjamin-richter-a875701a5/",
+    "birthOfDate": "12/21/1983",
+    "language": ["German","English"],
+    "programLanguage": ["C#","Typescript"],
+    "framework": [".NET", "EF Core", "Angular"],
+    "editorJourney" : ["Visual Studio","Visual Studio Code"],
+    "tool": ["MySQL Workbench", "Github Desktop", "Obsidian", "SQL Server MS"],
+    "operatingSystem": ["Windows", "Linux"],
+    "totalProgrammExp": 2019,
+    "currentEmployee" : "Searching for a Job as Software Developer",
+    "location": "Duesseldorf, Germany",
+    "skills": [
+        { "title": "C#", "stars": 4 , "type": "backend", "icon": "c-sharp-c.svg"},
+        { "title": "Javascript", "stars": 2, "type":"frontend"  , "icon": "javascript-js.svg"},
+        { "title": "Typescript", "stars": 3, "type":"frontend"  , "icon": "typescript-icon.svg"},
+        { "title": "Angular", "stars": 3, "type":"frontend"  , "icon": "file-type-angular.svg"},
+        { "title": ".NET", "stars": 3 , "type": "backend", "icon": "dot-net-original-wordmark.svg"},
+        { "title": "ASP.Net", "stars": 2, "type":"frontend" , "icon": "aspdotnet.svg"},
+        { "title": "Blazor", "stars": 2, "type":"frontend" , "icon": "BrandBlazor_nohalo_1000x.png"},
+        { "title": "Windows Forms", "stars": 3, "type":"backend" , "icon": "windows.svg"},
+        { "title": "EF Core", "stars": 3, "type":"backend" , "icon": "ef-core.svg"},
+        { "title": "Azure DevOps", "stars": 2, "type":"others" , "icon": "microsoft-azure.svg"},
+        { "title": "SQL", "stars": 3 ,"type":"backend" , "icon": "sql-database-generic.svg"},
+        { "title": "MySQL", "stars": 3 ,"type":"backend", "icon": "mysql-original-wordmark.svg"},
+        { "title": "MSSQL", "stars": 2 , "type":"backend", "icon": "file-type-sql.svg"},
+        { "title": "MongoDB", "stars": 3 ,"type":"backend" , "icon": "mongodb-original-wordmark.svg"},
+        { "title": "HTML", "stars": 2, "type":"frontend" , "icon": "file-type-html.svg"},
+        { "title": "CSS", "stars": 2, "type":"frontend"  , "icon": "file-type-css.svg"},
+        { "title": "Bootstrap", "stars": 2, "type":"frontend"  , "icon": "bootstrap-plain-wordmark.svg"},
+        { "title": "Blender", "stars": 2, "type":"others", "icon": "blender.svg"},
+        { "title": "3DS Max", "stars": 2 , "type":"others", "icon": "3ds_Max_23640.png"},
+        { "title": "Word", "stars": 3 , "type":"others", "icon": "file-type-word.svg"},
+        { "title": "Excel", "stars": 3 , "type":"others", "icon": "file-type-excel.svg"},
+        { "title": "Visual Studio", "stars": 2 , "type":"others", "icon": "visual-studio.svg"},
+        { "title": "VS Code", "stars": 2 , "type":"others", "icon": "visual-studio-code.svg"},
+        { "title": "Photoshop", "stars": 2 , "type":"others", "icon": "adobe-photoshop.svg"},
+        { "title": "Git", "stars": 2 , "type":"others", "icon": "git.svg"},
+        { "title": "Github", "stars": 2 , "type":"others", "icon": "github-original-wordmark.svg"},
+        { "title": "Unity", "stars": 2 , "type":"others", "icon": "unity-3d.svg"}
+    ],
+    "journeys": [
+        {
+            "date": "10.2022 - 04.2023", "title": "Praktikum IT-Entwicklung", "description": "Kassenärztliche Vereinigung Nordrhein - Düsseldorf", "type": "experience"
+        },
+        {
+            "date": "08.2015 - 09.2019", "title": "AGH-Stadt: Umweltamt / Aidshilfe / Ga-La Fortuna Düsseldorf", "description": "ZWD - Düsseldorf", "type": "experience"
+        },
+        {
+            "date": "06.2014 - 09,2019", "title": "Zeitungskurier", "description": "Anzeiger - Düsseldorf", "type": "experience"
+        },
+        {
+            "date": "07.2010 - 08.2015", "title": "Weiterbildungen Jobcenter", "description": "Düsseldorf", "type": "experience"
+        },
+        {
+            "date": "11.2008 - 01.2009", "title": "Büroreinigung", "description": "Klemens Kleine - Düsseldorf", "type": "experience"
+        },
+        {
+            "date": "08.2004 - 10.2008", "title": "Maler und Lackierer", "description": "Düsseldorf / Rostock", "type": "experience"
+        },
+        {
+            "date": "09.2021 - 06.2023", "title": "Ausbildung Fachinformatiker Anwendungsentwicklung", "description": "Abgeschlossen - BBQ - Düsseldorf", "type": "education"
+        },
+        {
+            "date": "08.2019 - 07.2021", "title": "Ausbildung Fachinformatiker Anwendungsentwicklung", "description": "Abgebrochen - Comcave - Düsseldorf", "type": "education"
+        },
+        {
+            "date": "05.2019 - 07.2019", "title": "Vorbereitungslehrgang auf eine IT-Umschulung", "description": "Comcave - Düsseldorf", "type": "education"
+        },
+        {
+            "date": "07.2001 - 07.2004", "title": "Ausbildung zum Maler und Lackierer", "description": "Abgeschlossen - Jaensch - Düsseldorf", "type": "education"
+        },
+        {
+            "date": "07.2000 - 07.2001", "title": "IHK-Vorbereitungsjahr für Handwerkliche Berufe", "description": "Düsseldorf", "type": "education"
+        },
+        {
+            "date": "07.1990 - 07.2000", "title": "Schulische Ausbildung", "description": "Hauptschulabschluss - Düsseldorf", "type": "education"
+        }
+    ]
+}
